@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "name": "indomie",
+      "stock": 40,
+      "harga": 8000,
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "name": "telur",
+      "stock": 50,
+      "harga": 3000,
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "name": "kopi liong",
+      "stock": 30,
+      "harga": 3000,
+      "userId": 2
+    },
+    {
+      "id": 4,
+      "name": "krupuk",
+      "stock": 40,
+      "harga": 2000,
+      "userId": 1
+    },
+    {
+      "id": 5,
+      "name": "gudang garam signature",
+      "stock": 10,
+      "harga": 19000,
+      "userId": 3
+    }
+  ]

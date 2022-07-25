@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "name": "sule",
+      "gender": "Mr.",
+      "email": "sule_prikitiw@gmial.com",
+      "password": "pr1k1t1w",
+      "roleId": 1
+    },
+    {
+      "id": 2,
+      "name": "Inem",
+      "gender": "Mrs.",
+      "email": "nyikanjeng_inem@gmail.com",
+      "password": "inem123",
+      "roleId": 1
+    },
+    {
+      "id": 3,
+      "name": "sepidermen",
+      "gender": "Mr.",
+      "email": "laba_laba_bala@gmail.com",
+      "password": "jaring",
+      "roleId": 2
+    },
+    {
+      "id": 4,
+      "name": "yoga",
+      "gender": "Mr.",
+      "email": "yoga@mail.com",
+      "password": "123",
+      "roleId": 1
+    }
+]
